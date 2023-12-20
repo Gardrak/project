@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="date">Выбранная дата:</string>
+    <string name="raspisanie">Показать расписание</string>
+    <string name="save">Сохранить</string>
+    <string name="zametka">Введите заметку</string>
+    <string name="selected_time">Selected Time: %1$d:%2$d</string>
+    <string name="hint1">Начните говорить…</string>
+    <string name="settings">Настройки</string>
+    <string name="changeName">Изменить имя:</string>
+    <string name="them">Тема:</string>
+    <string name="reminds">Уведомления:</string>
+    <string name="light">Светлая</string>
+    <string name="dark">Темная</string>
+    <string name="on">вкл</string>
+    <string name="off">выкл</string>
+    <string name="m">m</string>
+    <string name="enterName">Введите имя для начала работы</string>
+    <string name="name">Введите имя</string>
+    <string name="money">Бюджет на неделю:</string>
+    <string name="loading">Пока что нам нечего Вам предложить…</string>
+</resources>
